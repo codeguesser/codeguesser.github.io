@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://codeguesser.github.io/dongben.ipa</string>
+					<string>http://www.dongben.cc/dongben.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://dongben.cc/images/57.png</string>
+					<string>http://www.dongben.cc/images/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://dongben.cc/images/512.png</string>
+					<string>http://www.dongben.cc/images/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
