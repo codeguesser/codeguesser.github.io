@@ -1,7 +1,15 @@
-{ "applinks": {
-   "apps": [],
-   "details": [ {
-        "appID": "2EK6W2RBDH.com.rsaif.zwt",
-        "paths": [ "*","/qq_conn/22222/*","/v1/apple/apple/*" ]
-      }] }
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9JA89QQLNQ.com.apple.wwdc",
+                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*"]
+            },
+            {
+                "appID": "ABCD1234.com.apple.wwdc",
+                "paths": [ "*" ]
+            }
+        ]
+    }
 }
