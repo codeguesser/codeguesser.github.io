@@ -1,0 +1,7 @@
+{ "applinks": {
+   "apps": [],
+   "details": [ {
+        "appID": "2EK6W2RBDH.com.rsaif.zwt",
+        "paths": [ "*","/qq_conn/22222/*","/v1/apple/apple/*" ]
+      }] }
+}
